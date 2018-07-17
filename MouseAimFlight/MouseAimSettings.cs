@@ -258,7 +258,7 @@ namespace MouseAimFlight
 
             ConfigNode saveNode = new ConfigNode();
             saveNode.AddNode(node);
-            saveNode.Save(KSPUtil.ApplicationRootPath.Replace("\\", "/") + "GameData/MouseAimFlight/MAFSettings.cfg");
+            saveNode.Save(KSPUtil.ApplicationRootPath.Replace("\\", "/") + "GameData/MouseAimFlight/Plugins/PluginData/MAFSettings.cfg");
         }
 
         void DetectFARLoaded()
