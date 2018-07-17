@@ -1,0 +1,12 @@
+Mouse Aim Flight Change Log
+
+v 1.1.3
+* Recompiled for KSP 1.4.4.  Compatible with KSP 1.4.x
+* Relocated MAFSettings.cfg to prevent cache invalidation of Module Manager Cached data.
+* New Mod Support assumed by BDAc Team.  With permission from BahamutoD, Tetyrds.
+
+v 1.1.2
+* Recompiled for KSP 1.3
+
+v 1.1.1
+* 
