@@ -26,7 +26,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -56,3 +57,4 @@ MouseAimFlight.csproj.FileListAbsolute.txt
 MouseAimFlight.csprojResolveAssemblyReference.cache
 DesignTimeResolveAssemblyReferencesInput.cache
 /MouseAimFlight/obj/Release/build.force
+MouseAimFlight/bin/
